@@ -66,6 +66,8 @@ most of which are just Python modules:
   - Install using pip (`pip install pygame`)
   - Alternatively, downloadable from the
   [Pygame website](http://www.pygame.org/download.shtml)
+* **xlwt** 
+  - Included with Anaconda. Otherwise, install using pip (`pip install xlwt`)
 
 ## Usage
 
